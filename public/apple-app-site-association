@@ -1,0 +1,31 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "HW8GQ54PH9.com.xingtu.vimix",
+                "paths": [
+                    "NOT /__noul__/*",
+                    "/t/*",
+                    "/",
+                    "*",
+                    "/intl-??/t/*",
+                    "/intl-*/t/*"
+
+                ]
+            },
+            {
+                "appID": "PJVGY8YPMC.com.xingtu.vimix",
+                "paths": [
+                    "NOT /__noul__/*",
+                    "/t/*",
+                    "/",
+                    "*",
+                    "/intl-??/t/*",
+                    "/intl-*/t/*"
+
+                ]
+            }
+        ]
+    }
+}
